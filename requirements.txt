@@ -1,0 +1,25 @@
+# dotenv
+# langgraph 
+# langchain
+# langchain_groq
+# langgraph_supervisor
+# aiohttp
+# langchain_google_genai
+
+
+langchain-groq
+langchain-mcp-adapters
+mcp
+langgraph
+langchain-openai
+aiohttp
+fastapi 
+uvicorn
+streamlit
+langmem
+google-api-python-client
+langgraph_supervisor
+uvicorn
+langchain_google_genai
+psycopg2-binary
+streamlit-autorefresh
